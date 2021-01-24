@@ -48,7 +48,7 @@ $ secret-tool store --label='gmail send-email' \
             port 587 \
             protocol smtp \
             user my-user@gmail.com \
-            xdg:schema org.gnome.keyring.NetworkPassword \
+            xdg:schema org.gnome.keyring.NetworkPassword
 ```
 
 This will prompt you for the secret to associate to those credentials. For gmail account using two factor authentication, an [app password](https://support.google.com/accounts/answer/185833?hl=en) is required instead of the account password.
