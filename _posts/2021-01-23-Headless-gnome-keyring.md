@@ -1,3 +1,4 @@
+---
 layout: post
 draft: true
 title: git send-email with gnome-keyring, in headless mode

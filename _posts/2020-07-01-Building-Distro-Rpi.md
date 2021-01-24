@@ -1,3 +1,4 @@
+---
 layout: post
 draft: true
 title: Building a Custom Linux distribution for the Raspberry Pi (Part 1)
