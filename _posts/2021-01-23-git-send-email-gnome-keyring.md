@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using git send-email with gnome-keyring
+excerpt: Setting up git send-email with gnome-keyring without a login manager.
 ---
 
 ## Problem
